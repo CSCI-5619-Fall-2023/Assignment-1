@@ -40,7 +40,7 @@ Instead, you will need to create a [Meta account](https://auth.meta.com/) using 
 
 **Step 4: Activate Developer Mode**
 
-In order to build virtual reality applications to the Quest, the headset must be in developer mode. Unfortunately, Meta requires a bunch of extra steps to register as a developer before that option will show up in the headset settings.  If you are running on Windows, you will also need too install the [Oculus ADB drivers](https://developer.oculus.com/documentation/native/android/mobile-device-setup/).
+In order to build virtual reality applications to the Quest, the headset must be in developer mode. Unfortunately, Meta requires a bunch of extra steps to register as a developer before that option will show up in the headset settings.  If you are running on Windows, you will also need to install the [Oculus ADB drivers](https://developer.oculus.com/documentation/native/android/mobile-device-setup/).
 
 **Step 5: Familiarize Yourself with the Hardware**
 
@@ -65,9 +65,9 @@ If you are using VS Code, then I recommend you also install the following useful
 
 I strongly recommend that you read through the [Getting Started](https://docs.godotengine.org/en/stable/getting_started/introduction/index.html) documentation on the Godot Docs website: 
 
-This will introduce you to the key concepts, design philosophy, and structure of the Godot engine. Although I will be using Godot in the live programming lectures, a complete overview of all the functions in a complex game engine is beyond what we can cover in class. However, as the a widely-used open-source project, Godot has robust documentation and a helpful community. At this point in your CS careers, it is expected that you will be able to consult the documentation and complete tutorials as necessary when learning a new API, toolkit, or game engine.
+This will introduce you to the key concepts, design philosophy, and structure of the Godot engine. Although I will be using Godot in the live programming lectures, a complete overview of all the functions in a complex game engine is beyond what we can cover in class. However, as a widely-used open-source project, Godot has robust documentation and a helpful community. At this point in your CS careers, it is expected that you will be able to consult the documentation and complete tutorials as necessary when learning a new API, toolkit, or game engine.
 
-If you are new to working with game engines, or even if you have experience with other frameworks such as Unity or Unreal, you may find it useful to try implementing the [Your First 3D Game Tutorial](https://docs.godotengine.org/en/stable/getting_started/first_3d_game/index.html).  This is optional and **not** part of the graded assignment.  However, it is a nice introduction a lot of key functionality in Godot, including working with 3D coordinates, using scripting to animate objects, detecting collisions using physics, and more.  Note that although this tutorial was created for Godot 3, it works just fine if you create a new Godot 4 project and then copy over the art assets from their example.
+If you are new to working with game engines, or even if you have experience with other frameworks such as Unity or Unreal, you may find it useful to try implementing the [Your First 3D Game Tutorial](https://docs.godotengine.org/en/stable/getting_started/first_3d_game/index.html).  This is optional and **not** part of the graded assignment.  However, it is a nice introduction to a lot of key functionality in Godot, including working with 3D coordinates, using scripting to animate objects, detecting collisions using physics, and more.  Note that although this tutorial was created for Godot 3, it works just fine if you create a new Godot 4 project and then copy over the art assets from their example.
 
 ## Part 3: Create a Basic Virtual Environment
 
